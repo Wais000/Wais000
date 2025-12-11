@@ -1,4 +1,4 @@
-# Hi, I'm Waisuddin Nazari 👋  
+# Hi, I'm Wais Nazari 👋  
 **Frontend Developer · UI/UX Specialist · React & JavaScript**
 
 ![Banner](./banner-wn-1280x420.png)
