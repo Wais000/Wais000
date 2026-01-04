@@ -1,15 +1,12 @@
-# Hi, I'm Wais 👋
+# Hi, I'm Wais Nazari 👋  
+**React Frontend Developer · UI/UX · Cybersecurity Learner**
 
-Previously: **Frontend Developer** (React, TypeScript, UI systems)  
-Currently: **Learning Cybersecurity** — web & cloud security, pentesting, secure coding
+![Banner](./banner-wn-1280x420.png)
 
-Still write React occasionally.  
-Mostly breaking & defending things now 🛡️
+I build clean, fast, and accessible interfaces with React — and I’m now focused on making them secure by design.
 
-📍 Stack history: React · TS · Next.js · Tailwind · a11y · Storybook  
-📍 Learning now: Burp · OWASP · TryHackMe · HTB · Cloud IAM · AppSec
+- 💻 Background: Frontend Web Developer & UI/UX  
+- 🔐 Currently learning: Cybersecurity & web application security (OWASP, secure coding)  
+- 🛠️ Stack: JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind  
 
-Open to talk about:  
-• frontend → security transition  
-• secure React/Next.js patterns  
-• career switch experiences
+Crafting beautiful UIs that are just as strong on security as they are on design.
