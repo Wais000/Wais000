@@ -1,8 +1,6 @@
 # Hi, I'm Wais Nazari 👋  
 **React Frontend Developer · UI/UX · Cybersecurity Learner**
 
-![Banner](./banner-wn-1280x420.png)
-
 I build clean, fast, and accessible interfaces with React — and I’m now focused on making them secure by design.
 
 - 💻 Background: Frontend Web Developer & UI/UX  
