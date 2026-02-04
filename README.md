@@ -1,10 +1,17 @@
-# Hi, I'm Wais Nazari 👋  
-**React Frontend Developer · UI/UX · Cybersecurity Learner**
+Hi, I’m Wais Nazari 👋
 
-I build clean, fast, and accessible interfaces with React — and I’m now focused on making them secure by design.
+React Frontend Developer · Web Security · Offensive Mindset
 
-- 💻 Background: Frontend Web Developer & UI/UX  
-- 🔐 Currently learning: Cybersecurity & web application security (OWASP, secure coding)  
-- 🛠️ Stack: JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind  
+I build modern, high-performance web interfaces with React and analyze them with a security-first, attacker-aware mindset.
 
-Crafting beautiful UIs that are just as strong on security as they are on design.
+💻 Core: Frontend engineering, UI architecture, performance & accessibility
+
+🔐 Security: Web application security, OWASP Top 10, secure coding, input validation, auth flows
+
+🧠 Mindset: Think like an attacker, build like a defender
+
+🛠️ Stack: JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind
+
+🔍 Exploring: XSS, CSRF, auth/session weaknesses, frontend attack surfaces
+
+Clean UI. Minimal attack surface. No unnecessary trust.
