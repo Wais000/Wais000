@@ -1,6 +1,7 @@
 Hi, I’m Wais Nazari 👋
 
-React Frontend Developer · Web Security · Offensive Mindset
+React Frontend Developer · Web Security · Offensive Mindset.
+
 I build modern, high-performance web interfaces with React and analyze them with a security-first, attacker-aware mindset.
 
 . 💻 Core: Frontend engineering, UI architecture, performance & accessibility
