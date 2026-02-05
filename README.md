@@ -12,7 +12,7 @@ I build modern, high-performance web interfaces with React, approaching developm
 
 . 🧠 Mindset: Think like an attacker, build like a defender
 
-. 🛠️ Stack: JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind
+. 🛠️ Stack:Python, JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind
 
 . 🔍 Exploring: XSS, CSRF, auth/session weaknesses, frontend attack surfaces
 
